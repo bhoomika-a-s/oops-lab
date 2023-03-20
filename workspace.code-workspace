@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\.vscode"
+		},
+		{
+			"path": "..\\..\\cp sem 2 lab"
+		},
+		{
+			"path": "..\\..\\sem 2 cp"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp"
+		}
+	}
+}
